@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/openingScene.unity
+    guid: b0f453c9e11050e4f9a93b1bdb7c3c2a
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/loginScene.unity
+    guid: 2b88e3c873dfc7749bede737f078fcb9
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/signinScene.unity
+    guid: 7e2c5df800c09f14b96b3735943c2bda
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/forgetPassword.unity
+    guid: 32c9e1b6433b2604d91684fde0f37100
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/mainMenu.unity
+    guid: 6cfdcb6f1810d2e49a904bda5d2d517b
+  - enabled: 0
+    path: Assets/Ece_Assets/Scenes/sort_bestTOworst.unity
+    guid: 9d33378222a5a224cafc7168fe98fd2a
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/order/2.nd.unity
+    guid: 1dce8c6f7332a8f4bac6b8d78cff5b9c
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/order/3.rd.unity
+    guid: 9378b0daee1cf3948a6a2548d107c0f2
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/levels.unity
+    guid: 3a619dad858a4b54e8dffe69bbd15019
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/beforeGameScenes/before 1st page.unity
+    guid: 157857d5ede869545abcf7c9f9112f8f
+  - enabled: 1
+    path: Assets/Ece_Assets/Roujina_Assets/Level1.unity
+    guid: 28de5bbe025f65b4694969565980719d
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/afterWinScenes/1stwinscene.unity
+    guid: 5d8d359b59f40c54cbb4df8e8602ae3e
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/beforeGameScenes/before 2nd page 1.unity
+    guid: 9a4ead537cf2aec4f8842af60da3595c
+  - enabled: 1
+    path: Assets/Sema_Assets/Level2.unity
+    guid: c782033e3bcca234490d8670be2762d4
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/afterWinScenes/2stwinscene 1.unity
+    guid: 6d134be5a759bb1458385152564fa795
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/beforeGameScenes/before 3rd page 2.unity
+    guid: fc43433f623056941b7ec1487af952d4
+  - enabled: 1
+    path: Assets/Ece_Assets/Roujina_Assets/Level3.unity
+    guid: 907c7f05fcda6c24192bd9fa0fcaae47
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/afterWinScenes/3stwinscene 2.unity
+    guid: a5e5ace3db7f28d4dbba51a964994190
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/beforeGameScenes/before 4th page 3.unity
+    guid: 6c1ff7a88f2ed6b42b0b40d7388c5017
+  - enabled: 1
+    path: Assets/Sema_Assets/level4.unity
+    guid: 83504b875bd37ff42bee27dc2ae6cbd9
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/afterWinScenes/4stwinscene 3.unity
+    guid: 4e635737bba990341865167f74eaf112
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/beforeGameScenes/before 5th page 4.unity
+    guid: d1fbe9a67ffeb524f97371fec6e0671e
+  - enabled: 1
+    path: Assets/Ece_Assets/Roujina_Assets/Level5.unity
+    guid: 569c9d9e838ed3d40a6ec99bffff2ef8
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/afterWinScenes/5stwinscene 4.unity
+    guid: 1f0744a34233bbb4cbe522a963550f49
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/beforeGameScenes/before 6th page 5.unity
+    guid: 59859fd3e40999046a8277a3f4a2b3d7
+  - enabled: 1
+    path: Assets/Sema_Assets/level6.unity
+    guid: b385194b4f29fb64d974247875bc0676
+  - enabled: 1
+    path: Assets/Ece_Assets/Scenes/afterWinScenes/6stwinscene 5.unity
+    guid: 477722c2feaf35b428765cbd1ea76996
+  m_configObjects: {}
